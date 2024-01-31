@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "F_Tex6PaYAAZMjR.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "F_Tex6PaYAAZMjR 1.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "F_Tex6PaYAAZMjR 2.jpeg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
